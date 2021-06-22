@@ -1,4 +1,4 @@
-# Pintura
+# Pintura Image Editor Media Kit
 
 ## Name
 
