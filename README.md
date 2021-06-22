@@ -1,18 +1,18 @@
 # Pintura
 
-## NAME
+## Name
 
 Pintura Image Editor
 
-## TITLE
+## Title
 
 A powerful JavaScript Image Editor that integrates with every stack.
 
-## DESCRIPTION
+## Description
 
 A fully configurable image editor SDK that's intuitive on mobile and desktop. Set image requirements and help your customers upload better pictures. Supports cropping, rotating, resizing, filtering, annotating, adjusting colors, and much much more.
 
-## FRAMEWORK COMPATIBILITY
+## Framework compatibility
 
 - jQuery
 - React
@@ -22,7 +22,7 @@ A fully configurable image editor SDK that's intuitive on mobile and desktop. Se
 - Cordova
 - Ionic
 
-## LIBRARY COMPATIBILITY
+## Library compatibility
 
 - FilePond
 - Uppy
@@ -30,7 +30,7 @@ A fully configurable image editor SDK that's intuitive on mobile and desktop. Se
 - Dropzone
 - React Dropzone
 
-## BROWSER COMPATIBILITY
+## Browser compatibility
 
 - Chrome
 - Firefox
